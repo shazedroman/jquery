@@ -1,0 +1,46 @@
+ .question{
+	background-color: yellow;
+	font-size: 25px;
+	color: black;
+	padding: 20px;
+	cursor: pointer;
+}
+
+
+.answer{
+	background-color: green;
+	font-size: 20px;
+	color: black;
+	padding: 20px;
+	display: none;
+}
+.box{
+	height: 100px;
+	width: 150px;
+	font-size: 20px;
+	background-color: red;
+	float: left;
+	padding: 10px;
+	display: none;
+
+}
+.box1{
+	height: 100px;
+	width: 150px;
+	font-size: 20px;
+	background-color: red;
+	float: left;
+
+}
+.ani{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	position: absolute;
+}
+.animat{
+	height: 90px;
+	width: 90px;
+	background-color: yellow;
+	position: absolute;
+}
